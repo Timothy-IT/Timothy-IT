@@ -8,15 +8,15 @@
 
 <!-- Tentang Saya -->
 ## 💫 About Me
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="280" /> <br>
-🌱 Saya saat ini siswa SMK di sekolah SMK Multistudi Highschool Batam jurusan PPLG.  <br>
-💡 Saya memiliki minat besar dalam pengembangan Web & Aplikasi dan belajar keamanan Cyber Security, dan saya selalu senang untuk eksplorasi teknologi baru. <br>
-🔭 Saat ini saya sedang mengerjakan projek based learning dengan studi kasus Sistem Inventaris sekolah. <br>
-🎯 Target 2024: Menguasai full-stack development dan membuat proyek yang berdampak. <br>
-⚡ Fun fact: Saya suka coding , main game, main futsal dan main gitar saat di waktu luang. <br>
-📚 Selalu bersemangat untuk belajar dan meningkatkan skill sedikit demi sedikit. <br>
-🎮 Ketika tidak sedang coding, saya biasanya bermain game atau latihan gitar. <br>
-💬 Jangan ragu untuk bertanya tentang coding atau teknologi; saya senang membantu! <br>
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="280" /> <br>  <br>
+🌱 Saya saat ini siswa SMK di sekolah SMK Multistudi Highschool Batam jurusan PPLG.  <br>  <br>
+💡 Saya memiliki minat besar dalam pengembangan Web & Aplikasi dan belajar keamanan Cyber Security, dan saya selalu senang untuk eksplorasi teknologi baru. <br>  <br>
+🔭 Saat ini saya sedang mengerjakan projek based learning dengan studi kasus Sistem Inventaris sekolah. <br>  <br>
+🎯 Target 2024: Menguasai full-stack development dan membuat proyek yang berdampak. <br>  <br>
+⚡ Fun fact: Saya suka coding , main game, main futsal dan main gitar saat di waktu luang. <br>  <br>
+📚 Selalu bersemangat untuk belajar dan meningkatkan skill sedikit demi sedikit. <br> <br>
+🎮 Ketika tidak sedang coding, saya biasanya bermain game atau latihan gitar. <br> <br>
+💬 Jangan ragu untuk bertanya tentang coding atau teknologi; saya senang membantu! <br> <br>
 
 
 
