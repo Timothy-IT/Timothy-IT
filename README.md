@@ -1,3 +1,53 @@
+<h2 align="center">
+  Welcome to My GitHub Profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h2>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+</p>
+
+<!-- Tentang Saya -->
+## 💫 About Me
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="280" />
+🌱 Saya saat ini siswa SMK di sekolah SMK Multistudi Highschool Batam jurusan **PPLG**.
+💡 Saya memiliki minat besar dalam pengembangan Web & Aplikasi dan belajar keamanan Cyber Security, dan saya selalu senang untuk eksplorasi teknologi baru.
+🔭 Saat ini saya sedang mengerjakan projek based learning dengan studi kasus Sistem Inventaris sekolah.
+🎯 Target 2024: Menguasai full-stack development dan membuat proyek yang berdampak.
+⚡ Fun fact: Saya suka coding , main game, main futsal dan main gitar saat di waktu luang.
+📚 Selalu bersemangat untuk belajar dan meningkatkan skill sedikit demi sedikit.
+🎮 Ketika tidak sedang coding, saya biasanya bermain game atau latihan gitar.
+💬 Jangan ragu untuk bertanya tentang coding atau teknologi; saya senang membantu!
+📫 Hubungi saya di: timothycod3r@gmail.com.
+
+
+<br><br>
+
+
+
+## 📊 GitHub Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=[YourUsername]&theme=tokyonight" />
+</p>
+
+
+## 🤝 Connect With Me
+<p align="center">
+  <a href="[Your LinkedIn]">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="[Your Twitter]">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/tmthywll_?igsh=YXdyMHRpMXpoZWl3">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:[Your Email]">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+
 # 💻 Tech Stack:
 
 ### Web Development
